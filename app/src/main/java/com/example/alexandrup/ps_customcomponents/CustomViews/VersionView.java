@@ -1,4 +1,4 @@
-package com.example.alexandrup.ps_customcomponents;
+package com.example.alexandrup.ps_customcomponents.CustomViews;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
