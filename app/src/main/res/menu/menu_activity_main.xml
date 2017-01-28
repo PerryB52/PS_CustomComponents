@@ -9,4 +9,8 @@
         android:title="Go to OnDraw Activ - pizza"
         android:id="@+id/menu_goToOnDraw" />
 
+    <item
+        android:title="go to dispatchDraw - bookshelf"
+        android:id="@+id/menu_goToDispatch" />
+
 </menu>

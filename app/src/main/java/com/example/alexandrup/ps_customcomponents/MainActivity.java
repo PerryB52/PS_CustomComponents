@@ -61,6 +61,11 @@ public class MainActivity extends AppCompatActivity {
                 i = new Intent(MainActivity.this, PS_OnDraw.class);
                 startActivity(i);
                 break;
+
+            case R.id.menu_goToDispatch:
+                i = new Intent(MainActivity.this, PS_dispatchDraw.class);
+                startActivity(i);
+                break;
         }
 
         return true;

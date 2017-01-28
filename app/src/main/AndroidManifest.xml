@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Mod2CompoundControl" />
-        <activity android:name=".PS_OnDraw"></activity>
+        <activity android:name=".PS_OnDraw" />
+        <activity android:name=".PS_dispatchDraw"></activity>
     </application>
 
 </manifest>
