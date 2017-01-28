@@ -56,6 +56,11 @@ public class MainActivity extends AppCompatActivity {
                 i = new Intent(MainActivity.this, Mod2CompoundControl.class);
                 startActivity(i);
                 break;
+
+            case R.id.menu_goToOnDraw:
+                i = new Intent(MainActivity.this, PS_OnDraw.class);
+                startActivity(i);
+                break;
         }
 
         return true;

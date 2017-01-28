@@ -57,6 +57,9 @@
             android:layout_gravity="center"
             android:background="#c9f"/>
 
+        <include
+            layout="@layout/spiral_view"/>
+
     </LinearLayout>
 
 </TableLayout>

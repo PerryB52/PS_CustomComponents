@@ -5,4 +5,8 @@
         android:title="Go to Compound Control"
         android:id="@+id/menu_goToCompound"/>
 
+    <item
+        android:title="Go to OnDraw Activ - pizza"
+        android:id="@+id/menu_goToOnDraw" />
+
 </menu>

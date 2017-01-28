@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Mod2CompoundControl"></activity>
+        <activity android:name=".Mod2CompoundControl" />
+        <activity android:name=".PS_OnDraw"></activity>
     </application>
 
 </manifest>
